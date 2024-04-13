@@ -1,0 +1,26 @@
+p {
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-left: 10px;
+}
+
+input {
+    display: block;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
